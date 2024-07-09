@@ -49,21 +49,29 @@ body{
 
 .main-blog{
     font-weight: 1170;
-    background: rgba(13, 19, 33, 0.02);
+    background: yellowgreen;
     border-radius: 15px;
     height: auto 1390 ;
     margin: 74px 150px 88px 150px;
     padding: 30px 20px;
+    text-align: center;
+    
 }
 .blog-contant{
     display: flex;
     width: 100%;
-    
-    /* align-items: center; */
     justify-content: space-between;
     align-items: center;
-    
+    background-color: antiquewhite;
+    margin-top: 15px;
+
 }
+
+   
+   
+    
+    
+
 .blog-contant h1{
     font-weight: 700;
     font-size: 20px;

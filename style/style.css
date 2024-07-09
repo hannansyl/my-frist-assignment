@@ -48,10 +48,10 @@ body{
 }
 
 .main-blog{
-    font-weight: 1170;
-    background: yellowgreen;
+    /* font-weight: 1170; */
+    background-color: yellowgreen;
     border-radius: 15px;
-    height: auto 1390 ;
+    /* height: auto 1390 ; */
     margin: 74px 150px 88px 150px;
     padding: 30px 20px;
     text-align: center;
@@ -79,4 +79,10 @@ body{
 .blog-contant p{
     font-size: 15px;
     font-weight: 400;
+}
+.main-button{
+    padding: 5px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 20px;
 }

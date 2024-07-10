@@ -177,3 +177,21 @@ body{
 }
 /* end main  */
 /* start footer  */
+.footer-contain{
+    list-style: none;
+} 
+.footer-name{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* margin: 10px 50px; */
+    background-color: antiquewhite;
+    padding: 0 50px;
+
+}
+div ul{
+    display: flex;
+}
+div ul li{
+    margin-right: 30px;
+}

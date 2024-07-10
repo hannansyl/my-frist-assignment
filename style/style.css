@@ -88,12 +88,17 @@ body{
     margin-top: 20px;
 }
 .video-section{
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
     text-align: center;
     margin: 74px 150px 88px 150px;
     padding: 30px 20px;
     text-align: center;
 
+}
+.video-boder{
+    border: 15px solid white;
+    border-radius: 10PX;
+    
 }
 .video-section h1{
     font-weight: 800;

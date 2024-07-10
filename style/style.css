@@ -64,6 +64,7 @@ body{
     align-items: center;
     background-color: antiquewhite;
     margin-top: 15px;
+    
 
 }
 
@@ -91,6 +92,7 @@ body{
     text-align: center;
     margin: 74px 150px 88px 150px;
     padding: 30px 20px;
+    text-align: center;
 
 }
 .video-section h1{
@@ -100,4 +102,57 @@ body{
 .video-section p{
     font-weight: 400;
     font-size: 15px;
+    
+}
+
+.esses-video{
+    text-align: center;
+    border: 16px solid aqua;
+}
+/* new section  */
+.icon-section{
+    display: flex;
+    align-items: center;
+   
+}
+#color-itme{
+    background-color: aqua;
+}
+#icon-blog{
+    background-color: antiquewhite;
+
+}
+#colors{
+    background-color: chocolate;
+}
+
+.icon-colors{
+    margin: 10px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.angor{
+    /* text-decoration: none; */
+    color: black;
+}
+.web-icon{
+    text-align: center;
+    margin: 150px 120px;
+}
+/* .footer-blog{ */
+    display: flex;
+}
+.header-fotter{
+    display: flex;
+    flex-direction: row;
+}
+
+.main-footer{
+    display: flex;
+    text-align: justify;
+    gap: 20px;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
 }

@@ -133,14 +133,13 @@ body{
     margin-bottom: 100px;
 }
 .angor{
-    /* text-decoration: none; */
     color: black;
 }
 .web-icon{
     text-align: center;
     margin: 150px 120px;
 }
-/* .footer-blog{ */
+.footer-blog{
     display: flex;
 }
 .header-fotter{
@@ -155,4 +154,26 @@ body{
     padding: 20px;
     margin: 10px;
     border: 1px solid black;
+    
 }
+.icon-contant{
+    text-align: center;
+  margin: 15px 150px;
+
+}
+#last-main{
+    background-image: url(../imgs/handshake.jpg);
+    background-size: cover;
+    margin: 20px 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    padding: 20px 50px 80px 50px;
+   color: white;
+   text-align: center;
+   border-radius: 16px;
+   margin-bottom: 80px;
+
+}
+/* end main  */
+/* start footer  */
